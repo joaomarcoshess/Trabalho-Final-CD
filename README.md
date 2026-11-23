@@ -1,7 +1,5 @@
 # Análise da Popularidade e do Desempenho dos Brawlers em Partidas Casuais de Brawl Stars
 
-Projeto desenvolvido para a disciplina de Ciência dos Dados, no curso de Engenharia de Computação do CEFET-MG — Campus Divinópolis.
-
 ## 1. Sobre o projeto
 
 Este trabalho realiza uma análise exploratória de dados sobre a popularidade e o desempenho dos Brawlers em partidas casuais de *Brawl Stars*. O estudo investiga como as métricas de Win Rate, Pick Rate e Use Rate se relacionam, como variam entre modos de jogo e como se comportam ao longo do período analisado.
