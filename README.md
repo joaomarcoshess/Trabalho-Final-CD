@@ -154,7 +154,7 @@ Para reproduzir as análises principais, mantenha a estrutura de diretórios apr
 ## 10. Autor
 
 **João Marcos Silva Hess**  
-Engenharia de Computação — CEFET-MG, Campus Divinópolis.
+Engenharia de Computação — UFCI-MG, Campus Divinópolis.
 
 ---
 
