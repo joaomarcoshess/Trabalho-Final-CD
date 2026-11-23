@@ -1,0 +1,59 @@
+AUDITORIA E CONSOLIDACAO — BRAWL STARS CASUAL
+================================================
+
+Arquivos mensais processados: 13
+Periodo: 2025-11 a 2026-11
+Registros originais somados: 27376
+Brawlers distintos observados: 109
+Modos distintos observados: 48
+
+CRITERIO DE FILTRAGEM
+---------------------
+Foram mantidos somente os modos presentes nos 13 meses:
+- bounty (Bounty)
+- brawlBall (Brawl Ball)
+- brawlBall5V5 (Brawl Ball 5v5)
+- duoShowdown (Duo Showdown)
+- gemGrab (Gem Grab)
+- heist (Heist)
+- hotZone (Hot Zone)
+- knockout (Knockout)
+- knockout5V5 (Knockout 5v5)
+- soloShowdown (Solo Showdown)
+- trioShowdown (Trio Showdown)
+
+BASE COMPLETA
+-------------
+Arquivo: casual_completa_11_modos.csv
+Registros: 14707
+Brawlers distintos: 109
+Modos: 11
+Duplicatas por Reference_Month + Brawler + Mode: 0
+
+BASE COMPARAVEL
+---------------
+Arquivo: casual_buffies_comparavel_97_brawlers.csv
+Brawlers presentes em todos os 13 meses: 97
+Modos: 11
+Meses: 13
+Registros observados: 13871
+Registros esperados para painel completo: 13871
+Painel completo: SIM
+
+ENRIQUECIMENTO BRAWLAPI
+-----------------------
+A junção foi feita por nome normalizado (maiúsculas e espaços externos removidos).
+Brawlers sem correspondencia exata no catalogo BrawlAPI: GLOWBERT
+Modos comuns sem nome legivel mapeado: Nenhum
+Campos adicionados: Brawler_ID, Brawler_Class, Brawler_Rarity e Mode_Name.
+Valores não encontrados foram mantidos como ausentes; nenhum dado foi inventado.
+
+OBSERVACOES METODOLOGICAS
+-------------------------
+- Reference_Month identifica o arquivo de referencia, nao necessariamente o periodo exato das partidas.
+- Os arquivos sao estatisticas agregadas, nao partidas individuais.
+- A ausencia de um Brawler num mes/modo nao foi preenchida com zero.
+- O conjunto comparavel restringe os Brawlers aos presentes nos 13 meses.
+- Os 11 modos recorrentes foram identificados por intersecao literal dos nomes de modo entre os 13 arquivos.
+- Nomes de modos foram associados ao catalogo BrawlAPI por scHash ou gameMode.hash.
+- Os arquivos originais nao foram modificados.

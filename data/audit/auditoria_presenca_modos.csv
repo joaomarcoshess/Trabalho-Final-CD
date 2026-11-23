@@ -1,0 +1,49 @@
+﻿Mode,Months_Present,Present_In_All_13_Months,Mode_Name
+airHockey,9,False,
+basketBrawl,12,False,Basket Brawl
+bombHeist,5,False,
+bounty,13,True,Bounty
+brawlArena,9,False,Brawl Arena
+brawlBall,13,True,Brawl Ball
+brawlBall5V5,13,True,Brawl Ball 5v5
+brawlHockey,6,False,Brawl Hockey
+cooking,2,False,
+coopCooking,2,False,
+deathmatch,9,False,
+deathmatch5v5,9,False,
+dodgeball,8,False,
+duels,6,False,Duels
+duoMegaBoss,1,False,Duo Mega Boss
+duoShowdown,13,True,Duo Showdown
+gemGrab,13,True,Gem Grab
+heist,13,True,Heist
+hotZone,13,True,Hot Zone
+hunterSurvivor,1,False,
+killConfirmed,5,False,
+knockout,13,True,Knockout
+knockout5V5,13,True,Knockout 5v5
+lastStand,3,False,Last Stand
+loaded SD,1,False,
+loadedShowdown,1,False,Loaded Showdown
+loveBombing,1,False,Love Bombing
+mechaVan,1,False,
+megaBoss,4,False,
+megaBoss20P,1,False,
+megaBoss5P,2,False,
+megaDuoShowdown,1,False,
+megaShowdown,1,False,
+paintBrawl,5,False,Paint Brawl
+presentPlunder,9,False,Present Plunder
+shadowSmash,3,False,Shadow Smash
+shadowSmash5V5,1,False,
+siege,12,False,
+soloShowdown,13,True,Solo Showdown
+superHockey,1,False,Super Hockey
+tagTeam,8,False,
+treasureHunt,5,False,Treasure Hunt
+trioShowdown,13,True,Trio Showdown
+trophyThieves,4,False,
+uNO,6,False,
+volleyBrawl,12,False,Volley Brawl
+wipeout,6,False,Wipeout
+wipeout5V5,6,False,Wipeout 5v5
